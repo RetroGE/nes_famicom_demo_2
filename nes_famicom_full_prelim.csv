@@ -1,0 +1,7 @@
+NES Title,Famicom Title,Alternate PAL Titles,JP Release Date,NA Release Date,PAL (UK) Release Date,PAL (EU) Release Date,Famicom Code,Developer,Publisher JP,Publisher NA,Publisher PAL,JP Mapper,NA Mapper,JP PRG Size KB,JP CHR Size KB,NA PRG Size KB,NA CHR Size KB,JP Revision Notes,NA Revision Notes,JP Significant ROM Variants,NA Significant ROM Variants,Revision Count Diff,Confidence,Notes
+Super Mario Bros,スーパーマリオブラザーズ,,1985-09-13,1985-10-18,1987-06-01,1987-06-01,HVC-SM,Nintendo,Nintendo,Nintendo,Nintendo,,,,,,,JP has at least 2 revisions,NA Rev A battery board,2,2,no,High,Launch-era flagship
+Super Mario Bros 2,スーパーマリオUSA,Super Mario USA,1992-09-14,1988-10-09,1989-04-28,1989-04-28,HVC-SU,Nintendo,Nintendo,Nintendo,Nintendo,,,,,,,JP is USA version,Multiple prints,1,2,yes,High,Different game from JP Doki Doki Panic
+Super Mario Bros 3,スーパーマリオブラザーズ3,,1988-10-23,1990-02-12,1991-08-29,1991-08-29,HVC-SM3,Nintendo,Nintendo,Nintendo,Nintendo,,,,,,,Minor PRG revisions,Minor PRG revisions,1,1,no,High,
+The Legend of Zelda,ゼルダの伝説,,1986-02-21,1987-08-22,1987-11-27,1987-11-27,HVC-ZL,Nintendo,Nintendo,Nintendo,Nintendo,,,,,,,JP 1.0 and 1.1 exist,NA Rev A board,2,2,no,High,FDS origin then cart
+Zelda II The Adventure of Link,リンクの冒険,,1987-01-14,1988-12-01,1988-11-26,1988-12-01,HVC-LNK,Nintendo,Nintendo,Nintendo,Nintendo,,,,,,,FDS to cart transition,Minor text fixes NA,2,1,yes,High,
+Metroid,メトロイド,,1986-08-06,1987-08-15,1988-01-15,1988-01-15,HVC-MT,Nintendo,Nintendo,Nintendo,Nintendo,,,,,,,FDS vs cart differences,Password bug fixes,2,2,no,High,

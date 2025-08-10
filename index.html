@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NES & Famicom Cross-Region Games</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>NES & Famicom Cross-Region Games</h1>
+  <input type="text" id="searchInput" placeholder="Search any column..." onkeyup="searchTable()">
+</header>
+<main>
+  <div class="table-wrap">
+  <table id="gamesTable">
+    <thead>
+      <tr>
+        <th onclick="sortTable(0)">NES Title</th>
+        <th onclick="sortTable(1)">Famicom Title</th>
+        <th onclick="sortTable(2)">Alternate PAL Titles</th>
+        <th onclick="sortTable(3)">JP Release Date</th>
+        <th onclick="sortTable(4)">NA Release Date</th>
+        <th onclick="sortTable(5)">PAL (UK) Release Date</th>
+        <th onclick="sortTable(6)">PAL (EU) Release Date</th>
+        <th onclick="sortTable(7)">Famicom Code</th>
+        <th onclick="sortTable(8)">Developer</th>
+        <th onclick="sortTable(9)">Publisher JP</th>
+        <th onclick="sortTable(10)">Publisher NA</th>
+        <th onclick="sortTable(11)">Publisher PAL</th>
+        <th onclick="sortTable(12)">JP Mapper</th>
+        <th onclick="sortTable(13)">NA Mapper</th>
+        <th onclick="sortTable(14)">JP PRG Size KB</th>
+        <th onclick="sortTable(15)">JP CHR Size KB</th>
+        <th onclick="sortTable(16)">NA PRG Size KB</th>
+        <th onclick="sortTable(17)">NA CHR Size KB</th>
+        <th onclick="sortTable(18)">JP Revision Notes</th>
+        <th onclick="sortTable(19)">NA Revision Notes</th>
+        <th onclick="sortTable(20)">JP Significant ROM Variants</th>
+        <th onclick="sortTable(21)">NA Significant ROM Variants</th>
+        <th onclick="sortTable(22)">Revision Count Diff</th>
+        <th onclick="sortTable(23)">Confidence</th>
+        <th onclick="sortTable(24)">Notes</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  </div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>

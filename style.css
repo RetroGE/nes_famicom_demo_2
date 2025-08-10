@@ -1,0 +1,14 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#0b0f14;color:#e6e6e6}
+header{background:#111827;padding:16px;text-align:center}
+header h1{margin:0;font-size:22px}
+header input{margin-top:10px;padding:10px;width:90%;max-width:700px;border-radius:8px;border:1px solid #374151;background:#0f172a;color:#e6e6e6}
+.table-wrap{overflow:auto;padding:16px}
+table{border-collapse:collapse;width:100%;min-width:1400px;background:#111827}
+th,td{border:1px solid #1f2937;padding:8px 10px;text-align:left;white-space:nowrap}
+th{position:sticky;top:0;background:#1f2937;cursor:pointer}
+tr:nth-child(even){background:#0f172a}
+tr:hover{background:#122033}
+.badge{padding:3px 8px;border-radius:6px;font-size:12px}
+.badge.High{background:#065f46}
+.badge.Medium{background:#92400e}
+.badge.Low{background:#7f1d1d}
